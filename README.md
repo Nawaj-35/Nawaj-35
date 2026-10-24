@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey there! 👋
 
-<!--
-**Nawaj-35/Nawaj-35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nawaj Mahmud, a CSTE graduate and an aspiring Front-End Developer.
 
-Here are some ideas to get you started:
+- 🎯 Currently learning JavaScript and React.
+- 💻 Skills: HTML, CSS, Bootstrap.
+- 🚀 Interested in building responsive and user-friendly websites.
+- 📚 Always learning and improving my development skills.
+- 🤝 Open to internship opportunities and collaboration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tools & Technologies
+HTML • CSS • Bootstrap • JavaScript (Learning) • React (Upcoming)
+
+📫 Connect with Me
+- GitHub: [Your GitHub Profile]
+- LinkedIn: [Your LinkedIn Profile]
+- Email: [Your Email Address]
