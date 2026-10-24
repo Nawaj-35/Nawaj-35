@@ -9,7 +9,8 @@ I'm Nawaj Mahmud, a CSTE graduate and an aspiring Front-End Developer.
 - 🤝 Open to internship opportunities and collaboration.
 
 🛠️ Tools & Technologies
-HTML • CSS • Bootstrap • JavaScript (Learning) • React (Upcoming)
+• HTML • CSS • Bootstrap 5 • JavaScript (Learning) • React (Upcoming)
+
 
 📫 Connect with Me
 - GitHub: https://github.com/Nawaj-35
