@@ -12,6 +12,6 @@ I'm Nawaj Mahmud, a CSTE graduate and an aspiring Front-End Developer.
 HTML • CSS • Bootstrap • JavaScript (Learning) • React (Upcoming)
 
 📫 Connect with Me
-- GitHub: [Your GitHub Profile]
+- GitHub: [https://github.com/Nawaj-35]
 - LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email Address]
+- Email: nawajmahmud44@gmail.com
